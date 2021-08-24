@@ -181,15 +181,6 @@
       "foundDate": "August 2020"
     },
     {
-      "id": "21",
-      "img": "https://daolist.fyi/nextimg/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1282933852529291266%2FPRYeCD6A_normal.jpg",
-      "name": "Aavegotchi",
-      "category": "Protocol",
-      "aum": "4468823",
-      "twl": "38483",
-      "foundDate": "July 2020"
-    },
-    {
       "id": "22",
       "img": "https://daolist.fyi/nextimg/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220560374346461185%2FW1sQNVWo_normal.jpg",
       "name": "Curve Grants",
@@ -622,15 +613,6 @@
       "foundDate": "August 2020"
     },
     {
-      "id": "70",
-      "img": "https://daolist.fyi/nextimg/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1314525613881995264%2FpGDedFg0_normal.png",
-      "name": "Lido",
-      "category": "Protocol",
-      "aum": "N/A",
-      "twl": "27525",
-      "foundDate": "October 2020"
-    },
-    {
       "id": "71",
       "img": "https://daolist.fyi/nextimg/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1376348470999724035%2FnkC7Sf_2_normal.jpg",
       "name": "LexDAO",
@@ -737,15 +719,6 @@
       "aum": "N/A",
       "twl": "51591",
       "foundDate": "April 2017"
-    },
-    {
-      "id": "83",
-      "img": "https://daolist.fyi/nextimg/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1342358166877720577%2FxRGEXmQN_normal.png",
-      "name": "Friends With Benefits",
-      "category": "Social",
-      "aum": "N/A",
-      "twl": "5163",
-      "foundDate": "December 2020"
     },
     {
       "id": "84",
@@ -935,24 +908,6 @@
       "aum": "N/A",
       "twl": "9824",
       "foundDate": "February 2021"
-    },
-    {
-      "id": "105",
-      "img": "https://daolist.fyi/nextimg/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1387446260618219525%2FkRKidHes_normal.jpg",
-      "name": "Audius",
-      "category": "Protocol",
-      "aum": "N/A",
-      "twl": "52155",
-      "foundDate": "July 2018"
-    },
-    {
-      "id": "106",
-      "img": "https://daolist.fyi/nextimg/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1406414087873986565%2FuL_w9skB_normal.jpg",
-      "name": "Audacity Fund",
-      "category": "Investment",
-      "aum": "N/A",
-      "twl": "825",
-      "foundDate": "April 2021"
     },
     {
       "id": "107",
